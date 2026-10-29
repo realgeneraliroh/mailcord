@@ -4,4 +4,4 @@ html2text==2024.2.26
 idna==3.15
 python-dotenv==1.0.1
 requests==2.33.0
-urllib3==2.2.3
+urllib3==2.8.0
